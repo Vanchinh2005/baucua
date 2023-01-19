@@ -11,6 +11,7 @@
 }
 
 html, body {
+    background-image: url('https://hocvienboardgame.vn/wp-content/uploads/2020/01/Do-choi-moi-nhat-bau-cua-tom-ca-bip-02.jpg');
     height: 100%;
     width: 100%;
     display: flex;
